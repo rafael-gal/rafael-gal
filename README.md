@@ -1,5 +1,5 @@
 <a href="https://rafael-macapagal-portfolio.web.app/">
-  <img width="100%" src="https://github.com/rafael-gal/rafael-gal/raw/master/assets/Banner.gif" alt="rafael-banner">
+  <img width="100%" src="https://raw.githubusercontent.com/rafael-gal/rafael-gal/refs/heads/main/assets/Banner.gif" alt="rafael-banner">
 </a>
 
 <h1> Hi there! </h1>
